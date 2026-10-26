@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Юрий Горохов — Шинник навсегда</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#10110f;color:#f7f6f0;font-family:Arial,sans-serif;line-height:1.6}.wrap{width:min(1000px,90%);margin:auto}header{padding:22px 0;border-bottom:1px solid #333}.brand{font-weight:900;letter-spacing:2px}.brand span,h1 em{color:#f2c51d;font-style:normal}.hero{min-height:75vh;display:flex;align-items:center;background:radial-gradient(ellipse at 80% 20%,#66530e55,transparent 45%),#10110f}.eyebrow{color:#f2c51d;letter-spacing:3px;font-size:12px;font-weight:bold}.hero h1{font-size:clamp(48px,10vw,100px);line-height:.98;letter-spacing:-4px}.lead{font-size:20px;color:#c4c5ba;max-width:620px}.btn{display:inline-block;background:#f2c51d;color:#15150f;padding:14px 22px;text-decoration:none;font-weight:bold;margin:18px 8px 0 0;border-radius:3px}section{padding:70px 0}.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}.card{padding:25px;background:#191b17;border:1px solid #333;border-radius:5px}.card h3{font-size:23px}.muted{color:#a8aa9f}.quote{font-size:clamp(24px,4vw,38px);font-weight:bold;border-left:4px solid #f2c51d;padding-left:22px}.yellow{background:#f2c51d;color:#17170f}.yellow .eyebrow{color:#514200}.yellow .btn{background:#17170f;color:#f2c51d}footer{padding:25px 0;color:#a8aa9f;border-top:1px solid #333;font-size:13px}
+</style>
+</head>
+<body>
+<header><div class="wrap"><div class="brand">ЮРИЙ <span>ГОРОХОВ</span></div></div></header>
+<main>
+<div class="hero"><div class="wrap"><div class="eyebrow">ЯРОСЛАВЛЬ · ФУТБОЛ · ЧЁРНО-ЖЁЛТЫЕ</div><h1>ГОРОД.<br>КОМАНДА.<br><em>ШИННИК.</em></h1><p class="lead">Страница о любви к футболу и клубу, который занимает особое место в спортивной истории Ярославля.</p><a class="btn" href="#about">УЗНАТЬ БОЛЬШЕ ↓</a></div></div>
+<section id="about"><div class="wrap"><div class="eyebrow">О ПРОЕКТЕ</div><h2 style="font-size:clamp(32px,6vw,52px)">Больше, чем игра</h2><p class="muted">«Юрий Горохов» — фанатский проект в честь ярославского футбола и клуба «Шинник». Это место для тех, кому близки характер, преданность команде и атмосфера стадиона.</p><div class="quote">Настоящая поддержка — быть рядом с командой <span style="color:#f2c51d">в любой момент.</span></div></div></section>
+<section><div class="wrap"><div class="eyebrow">НАШИ ЦЕННОСТИ</div><h2 style="font-size:clamp(32px,6vw,52px)">Чёрно-жёлтый характер</h2><div class="cards"><div class="card"><div class="eyebrow">01 / ГОРОД</div><h3>Ярославль</h3><p class="muted">Местная гордость и клуб, за которым стоит свой город.</p></div><div class="card"><div class="eyebrow">02 / КОМАНДА</div><h3>Единство</h3><p class="muted">Победы радуют, трудные моменты закаляют, поддержка остаётся.</p></div><div class="card"><div class="eyebrow">03 / БОЛЕЛЬЩИКИ</div><h3>Преданность</h3><p class="muted">Футбольная культура живёт благодаря тем, кто верит.</p></div></div></div></section>
+<section class="yellow"><div class="wrap"><div class="eyebrow">ФУТБОЛЬНЫЙ КЛУБ</div><h2 style="font-size:clamp(32px,6vw,52px)">«Шинник» — наш Ярославль</h2><p>«Шинник» — профессиональный футбольный клуб из Ярославля, основанный в 1957 году. Для города он стал частью спортивной жизни и футбольной традиции.</p><a class="btn" href="https://shinnik.com/">ОФИЦИАЛЬНЫЙ САЙТ КЛУБА ↗</a></div></section>
+</main>
+<footer><div class="wrap">© 2026 Юрий Горохов · Фанатская страница о ФК «Шинник»</div></footer>
+</body>
+</html>
